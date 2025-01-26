@@ -29,9 +29,10 @@
 
 If any change occurs, the schedule will be edited here.
 
-<script src="script.js"></script>
 
 <p style="font-family:verdana"><a href="/blog.html">Back to blog</a></p>
+
+<script src="script.js"></script>
 
 </body>
 
